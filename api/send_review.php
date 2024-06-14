@@ -31,4 +31,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Handle the case when not a POST request
     echo "Method not allowed.";
 }
-?>
+
