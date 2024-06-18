@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $review = $_POST['review'];
     
     // Email address where you want to receive the reviews
-    $to = "mcdonaldchris1982@gmail.com";
+    $to = "mcdonaldchris1982@gmail.com, info@mcdonaldebookstore.com";
     
     // Subject of the email
     $subject = "New Review Submission";
